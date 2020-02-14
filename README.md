@@ -1,2 +1,2 @@
-# entregas-hab
-exercises of HTML , CSS ,JAVASCRIPT
+# entrega-hab
+Trabajo respecto al modulo1 perteneciente a HTML.
